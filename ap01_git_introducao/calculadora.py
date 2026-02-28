@@ -4,3 +4,6 @@ def subtrair(a, b):
     return a - b
 def multiplicar(a, b):
     return a * b
+
+def dividr (a, b):
+    return a /b
