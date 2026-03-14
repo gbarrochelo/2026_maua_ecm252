@@ -19,7 +19,7 @@ const App = () => {
 
   {/*buttoon{Enviar} */}
     <button 
-    onClick{()=>aoClicar()}
+    onClick={() => aoClicar()}
     style={estilosBotao}>
      {obterTextoDoBotao}
     </button>
